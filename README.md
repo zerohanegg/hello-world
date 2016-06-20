@@ -2,4 +2,4 @@
 
 Hello World !
 
-I am Zeorhanegg, nice to meet you all :)
+I am zeorhanegg, nice to meet you all :)
